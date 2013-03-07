@@ -1,0 +1,9 @@
+tugas HTML
+
+halaman buat CV dengan format list
+	biodata
+	riwayat pendidikan
+	riwayat organisasi
+	prestasi
+
+halaman untuk edit CV
